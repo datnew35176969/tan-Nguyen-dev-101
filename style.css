@@ -1,0 +1,18 @@
+h1, h2 {
+    color: var(--color4);
+}
+.bold {
+    font-weight: 1000epm;
+    color: var(--color2);
+}
+body {
+    font-family: 'Inconsolata', monospace;
+    background-image: url(./mountain-gd72fef5df_1920.jpg);
+
+}
+* {
+    --color1: #5C2751;
+    --color2: #9DACFF;
+    --color3: #76E5FC;
+    --color4: #fb8b24;
+}
